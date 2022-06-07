@@ -13,4 +13,4 @@ pip install selenium
 ```
 
 Google does not allow web scraper to login directly. So we need to setup a remote deubugging port of chrome as shown in the below video
-[Setup chrome remote debugging port](https://youtu.be/FVumnHy5Tzo)
+- [Setup chrome remote debugging port](https://youtu.be/FVumnHy5Tzo)
