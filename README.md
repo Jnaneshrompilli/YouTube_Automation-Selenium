@@ -7,3 +7,7 @@
 * Update views count in title
 
 ### Setup
+* Install selenium package using pip
+```
+pip install selenium
+```
