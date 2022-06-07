@@ -1,4 +1,4 @@
-# Automate YouTube Tasks using selenium ( python package )
+## Automate YouTube Tasks using selenium ( python package )
 * Heart comments
 * Pin comments
 * Reply to comments
@@ -6,4 +6,4 @@
 * Update username of person commmented in title
 * Update views count in title
 
-## Setup
+### Setup
